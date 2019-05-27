@@ -1,0 +1,18 @@
+body{
+  background: url('../img/img_02.jpg') no-repeat 50% 50%;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: Roboto;
+}
+
+.container h1{
+  color: var(--gr-);
+  font-weight: 300;
+  font-family: Lobster;
+  text-align: center;
+  margin: 20% auto 0;
+  text-shadow: var(--text-sh-);
+}
+.container h1:last-child{
+  margin: 0 auto;
+}
